@@ -1,0 +1,15 @@
+C:\Users\elena\source\repos\BDReniec\clienteWPF\bin\Debug\clienteWPF.exe.config
+C:\Users\elena\source\repos\BDReniec\clienteWPF\bin\Debug\clienteWPF.exe
+C:\Users\elena\source\repos\BDReniec\clienteWPF\bin\Debug\clienteWPF.pdb
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF.csprojAssemblyReference.cache
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\MainWindow.g.cs
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\App.g.cs
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF_MarkupCompile.cache
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF_MarkupCompile.lref
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\MainWindow.baml
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF.g.resources
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF.Properties.Resources.resources
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF.csproj.GenerateResource.cache
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF.exe
+C:\Users\elena\source\repos\BDReniec\clienteWPF\obj\Debug\clienteWPF.pdb
